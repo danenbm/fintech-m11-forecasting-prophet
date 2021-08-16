@@ -39,7 +39,11 @@ Here are examples of the interactive plots and Facebook Prophet forecasts in thi
 
 ![Heatmap of MercadoLibre Search Trends](Images/heatmap_of_mercadolibre_search_trends.png)
 
+### MercadoLibre Search Trends Prophet Forecast
+
 ![MercadoLibre Search Trends Prophet Forecast](Images/mercadolibre_search_trends_prophet_forecast.png)
+
+### MercadoLibre Search Trends Prophet Forecast Components
 
 ![MercadoLibre Search Trends Prophet Forecast Components](Images/mercadolibre_search_trends_prophet_components.png)
 
